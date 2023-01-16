@@ -1,0 +1,39 @@
+/*body{
+
+background-image: url("../image/gif.gif");
+}*/
+div{
+	border:2px solid white;
+	width: 20rem;
+	background-color: #1A5276 ;
+	padding: 20px;
+	color: white;
+	background-image: url("../image/back.jpg");
+
+}
+.name{
+	display: flex;
+	flex-direction: row;
+	padding: 10px;
+	padding-top: 20px;
+    width: 60%;
+}
+.ex{
+	background-color:#ECF0F1 ;
+	
+	width: 200%;
+	color: white;
+	background-image: url("../image/ground.jpg");
+
+}
+img{
+	height: 40px;
+	width: 20%;
+}
+/**{
+background-image: url("../image/gif.gif");
+}*/
+.img{
+	width: 70%;
+	height: 25%;
+}
